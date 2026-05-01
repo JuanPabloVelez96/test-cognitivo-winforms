@@ -63,12 +63,6 @@ Manipulación de archivos (CSV)
 Programación asincrónica (async/await)
 
 
-Cómo ejecutar el proyecto:
-Clonar el repositorio:
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-Abrir la solución en Visual Studio
-Ejecutar el proyecto (F5)
-
 Estructura del proyecto:
 Form1 → Menú principal
 Form2 → Test de atención
